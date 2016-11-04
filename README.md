@@ -7,6 +7,10 @@ The application is searching much faster and wokring more efficiently.
 Copy or rename the conf_sample.php to conf.php and fill in the database configuration.
 Once executed, the program creates the database structure automatically.
 
+```
+$ Created by Artur CSE21 for course Database processing (I706 EIK/EITC)
+```
+
 ### Pictures
 
 ![Screenshot 1](http://database.arturich.eu/files/Screenshot4.png)
